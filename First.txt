@@ -1,2 +1,2 @@
-Change in first git repo
+Change in first git repo.
 This is the first text file
