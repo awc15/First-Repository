@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-
-=======
-This is the first file
->>>>>>> f28ee8b58246dfbc1d125f291960cd00190d3140
+this is first file
