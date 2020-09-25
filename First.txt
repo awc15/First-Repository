@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is the first text file
 Change in Clone First Repo
+=======
+Change in first git repo
+This is the first text file
+>>>>>>> d656bcd679f6dcf4f429c1386fa320b59c2b2839
